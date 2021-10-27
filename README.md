@@ -67,6 +67,7 @@ See the GitHub website for more information on how to obtain the source code. Wh
 Please pull changes regularly from the GitHub repository to receive new features and fixes.
 
 
+
 ### Support ###
 
 Support is provided via the Tutorials and the wiki.
@@ -81,5 +82,7 @@ The toolkit works primarily with medical Dicom images, but there is also limited
 ### License ###
 
 You may download and use the Toolkit subject to the conditions of the GNU GPL v3 license. Note that under this license you can use the Toolkit in your own software, but if you do, and if you distribute your software to anyone else, then you must also make your software source code freely available. See the GNU GPL v3 license for details.
+
+Nourian, a. (2021). Design, Evaluation, and Application of Seemon Pulmonary Toolkit (SPTK).
 
 _Note: Some parts of the software in the External folder are covered by different licences - see the licence files in the External folder for details_.
